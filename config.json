@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://deploy-all-the-things-asten.herokuapp.com/",
+  "change_calculator": "https://change-calculator-react-asten.herokuapp.com/",
+  "mortgage_calculator": "https://mortgage-calc-react-asten.herokuapp.com/",
+  "top_spots": "https://top-spots-react-asten.herokuapp.com/",
+  "vstda": "https://vstda-react-asten.herokuapp.com/"
 }
